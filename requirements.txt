@@ -1,5 +1,5 @@
-requests==2.32.3
-numpy==2.1.2
-streamlit==1.39.0  # Ensure this version works with Python 3.10
-opencv-python==4.10.0  # Compatible version for Python 3.10
-Pillow  # Replace PIL with Pillow
+requests
+numpy
+streamlit  
+opencv-python>=4.9.0  
+Pillow  
