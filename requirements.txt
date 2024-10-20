@@ -1,0 +1,6 @@
+requests
+json
+numpy 
+streamlit
+cv2
+PIL
