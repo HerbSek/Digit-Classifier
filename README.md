@@ -10,5 +10,7 @@ eg.
 
 
 ## DEMO
-Uploading app2 - Brave 2024-10-07 09-04-29.mp4…
+https://github.com/user-attachments/assets/7863cfcc-2ef1-4f99-a689-d5e952dd4b68
+
+
 
