@@ -1,5 +1,5 @@
 requests
 numpy 
 streamlit
-cv2
+opencv-python
 PIL
