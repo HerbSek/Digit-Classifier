@@ -43,8 +43,8 @@ if file is not None:
     if st.button("Predict Digit ❤️"):
         new_request = requests.post(url, data=json.dumps(data), headers={"Content-Type": "application/json"})
     
-        st.success(f" The number is {new_request.json()["prediction"]}")
-        st.markdown(f"##  {new_request.json()["prediction"]}")
+        st.success(f" The number is {new_request.json()['prediction']}")
+        st.markdown(f"##  {new_request.json()['prediction']}")
 
 if file is None:
     st.markdown("# Digit Classifier ")
